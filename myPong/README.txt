@@ -13,13 +13,15 @@ Quick setup:
 		Instead, try creating a shortcut to the executable.
 
 Accessing source files and manual setup:
-	The game was built using Unity, with editor version 2021.3.16f1, you'll need to install Unity. (go to section Installing Unity for steps)
-	Download and the game's uncompiled project files here: 
-	Extract the "Pong" directory, you can save this with your other unity projects so you don't lose it.
-	Open Unity and select "Projects" from the sidebar, then click "Open" and select the "Pong" directory.
+	1. The game was built using Unity, with editor version 2021.3.16f1, you'll need to install Unity. (go to section Installing Unity for steps)
+	2. Download and the game's uncompiled project files here: https://github.com/Ledge-Dragmire/myPongMain
+	The "Pong" directory is rather large so it was uploaded in several compressed volumes, download all of them.
+	3. To open the zipped files, download 7-Zip (free open source file archive/extractor) from https://www.7-zip.org/
+	When installing, integrate 7-Zip to the context menu.
+	4. In file explorer select all of  the pong.zip volumes, right click, and select "7-zip" -> "extract here" to assemble the project directory.
+	5. Open Unity and select "Projects" from the sidebar, then click "Open" and select the "Pong" directory.
 	This will open the Unity Editor for the game.
-	To run the game, select "File" -> "Build And Run" or choose "Build Settings" and click "Build" to export the game.
-
+	6. To run the game, select "File" -> "Build And Run" or choose "Build Settings" and click "Build" to export the game.
 
 Installing Unity:
 	1. You can download the Unity Hub installer from https://unity.com/download.
