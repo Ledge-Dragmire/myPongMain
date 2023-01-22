@@ -14,7 +14,7 @@ Quick setup:
 
 Accessing source files and manual setup:
 	1. The game was built using Unity, with editor version 2021.3.16f1, you'll need to install Unity. (go to section Installing Unity for steps)
-	2. Download and the game's uncompiled project files here: https://github.com/Ledge-Dragmire/myPongMain
+	2. Download and the game's uncompiled project files here: https://github.com/Ledge-Dragmire/myPongMain/tree/main/projectArchive
 	The "Pong" directory is rather large so it was uploaded in several compressed volumes, download all of them.
 	3. To open the zipped files, download 7-Zip (free open source file archive/extractor) from https://www.7-zip.org/
 	When installing, integrate 7-Zip to the context menu.
